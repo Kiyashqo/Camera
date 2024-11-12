@@ -1,0 +1,11 @@
+Model Information:
+* title:	Panasonic VHS-C MOVIE CAMERA NV-A3
+* source:	https://sketchfab.com/3d-models/panasonic-vhs-c-movie-camera-nv-a3-64bc8b9060f24d72848307ef9be1b9bd
+* author:	Arthur.Vanneste (https://sketchfab.com/Arthur.Vanneste1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Panasonic VHS-C MOVIE CAMERA NV-A3" (https://sketchfab.com/3d-models/panasonic-vhs-c-movie-camera-nv-a3-64bc8b9060f24d72848307ef9be1b9bd) by Arthur.Vanneste (https://sketchfab.com/Arthur.Vanneste1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
